@@ -1,0 +1,8 @@
+1. rejalashtirish (papkalarni tartib bilan ochish)
+2. img dowload qilsh
+font-famaly ulash
+4. bosqichma bosqich qisimlarni tugash
+5. github ulash
+6.project deployd qilish
+7. coment yozish
+8.img taglarini alt info qolib ketmasin
